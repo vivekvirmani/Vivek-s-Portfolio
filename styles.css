@@ -1,0 +1,10 @@
+#wrapper-canvas canvas {
+    max-width: 100%;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+bg-[coral] py-2 px-5 rounded font-extrabold bg-gradient-to-l from-[coral] to-[#f7c9bb]
+hover:bg-[#1280a4] hover:border-[coral] border-2 border-[#1788ae]
